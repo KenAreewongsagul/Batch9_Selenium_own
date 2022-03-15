@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Day5_Selenium.AmazonTest"/>
+      <class name="Day5_Selenium.windowsAlert"/>
+      <class name="Day1_Selenium.TestRegistration"/>
+      <class name="Day6_Selenium.actionClassTest"/>
+      <class name="Day5_Selenium.checkSlide"/>
+      <class name="Day1_Selenium.TestHomePage"/>
+      <class name="Day10_TestNG.groupTests"/>
+      <class name="Day2_Selenium.openAndVerifyTitle"/>
+      <class name="Day10_TestNG.testingTestNGAnnotation"/>
+      <class name="Day6_Selenium.homeworkReview"/>
+      <class name="Day4_Selenium.SelectAirport"/>
+      <class name="Day7_Selenium.paymentTest"/>
+      <class name="utilities.Test_Property"/>
+      <class name="Day7_Selenium.iframeTest"/>
+      <class name="Day7_Selenium.windowHandleTest"/>
+      <class name="Day2_Selenium.sampleAutomationWebElementTesting"/>
+      <class name="Day10_TestNG.dependOnTest"/>
+      <class name="Day9_Selenium.TestingWebDriver"/>
+      <class name="utilities.Driver"/>
+      <class name="Day4_Selenium.dropDownTest"/>
+      <class name="Day5_Selenium.Wit_Homework"/>
+      <class name="Day6_Selenium.assertionsTest"/>
+      <class name="Day4_Selenium.Fluent_WaitTest"/>
+      <class name="Day2_Selenium.JunitTest"/>
+      <class name="ReviewSessions.AmazonTest"/>
+      <class name="Day5_Selenium.Homework"/>
+      <class name="Day3_Junit.XpathTest"/>
+      <class name="Day4_Selenium.implicitWaitTest"/>
+      <class name="Day5_Selenium.Pete_Homework"/>
+      <class name="Day5_Selenium.Nat_Homework"/>
+      <class name="Day3_Junit.checkBoxesTest"/>
+      <class name="Day5_Selenium.estyTest"/>
+      <class name="Day8_Selenium.propertiesClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
